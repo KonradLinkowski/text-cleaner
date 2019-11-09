@@ -1,6 +1,6 @@
 {
   "name": "text-cleaner",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Easily clean text for analysis",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajgamble-milner/text-cleaner.git"
+    "url": "git+https://github.com/aimee-gm/text-cleaner.git"
   },
   "keywords": [
     "text",
