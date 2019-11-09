@@ -1,8 +1,7 @@
-
+const { expect } = require('chai');
 
 const StringCleaner = require('../lib/string-cleaner'),
 	TextCleaner = require('../index'),
-	expect = require('chai').expect,
 	testStrings = require('./data/test-strings.json');
 
 describe('TextCleaner', () => {

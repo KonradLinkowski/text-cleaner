@@ -1,5 +1,5 @@
-const StringCleaner = require('../lib/string-cleaner'),
-	expect = require('chai').expect;
+const { expect } = require('chai');
+const StringCleaner = require('../lib/string-cleaner');
 
 describe('StringCleaner', () => {
 	let test1,
